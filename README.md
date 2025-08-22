@@ -52,5 +52,5 @@ CTF & Labs
 </div>
 
 ## Projects
-- Vulnerable Web Application Pentest
+- <a href=https://github.com/Rajchhayani/Vulnerable-Web-Application-Pentest>Vulnerable Web Application Pentest</a>
 - SOC Automation Project
