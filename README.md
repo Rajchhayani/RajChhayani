@@ -53,4 +53,6 @@ CTF & Labs
 
 ## Projects
 - <a href=https://github.com/Rajchhayani/Vulnerable-Web-Application-Pentest>Vulnerable Web Application Pentest</a>
-- SOC Automation Project
+- <a href=https://github.com/Rajchhayani/Network-Service-Enumeration-and-Vulnerability-Assessment-of-Metasploitable-2/edit/main/README.md>Network Service Enumeration and Vulnerability Assessment of Metasploitable 2
+
+</a>
