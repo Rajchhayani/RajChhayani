@@ -40,11 +40,11 @@ CTF & Labs
 <div>
 
 <a href="https://drive.google.com/file/d/1CkLBDffOLgmdMuAYTh76Cqb-qLeN_BHr/view?usp=drive_link" target="_blank">
-  <img src="https://img.shields.io/badge/-Cyber_Gyan-000000?&style=for-the-badge&logo=Hack-The-Box&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ethical Hacking and Penetration Testing – Virtual Internship-000000?&style=for-the-badge&logo=Hack-The-Box&logoColor=white" />
 </a>
 
 <a href="https://drive.google.com/file/d/1CmDfh5Pt-zoSnfK7OoRpy3Q8ZvnZRO6h/view?usp=drive_link" target="_blank">
-  <img src="https://img.shields.io/badge/-Deloitte_Cyber-0A66C2?&style=for-the-badge&logo=Dell&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Deloitte Cyber Academy Certification-0A66C2?&style=for-the-badge&logo=Dell&logoColor=white" />
 </a>
 
 
