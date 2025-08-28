@@ -7,7 +7,7 @@ I am an undergraduate student with a profound interest in technology and a dedic
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a penetration tester as a jr.penetration tester.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field,with a specific focus on penetration testing and ethical hacking.
 
 ## Skills
 
