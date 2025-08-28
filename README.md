@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Web Application Pentesting      | [DVWA Pentest Lab](#)             |
 | Network Scanning & Exploitation | [Vulnerable VM Attack Lab](#)     |
 | Password Cracking               | [Hydra & John the Ripper Demo](#) |
-| Reporting & Documentation       | [Sample PenTest Report](#)        |
+| Reporting & Documentation       | [Simple PenTest Report](#)        |
 
 
 
